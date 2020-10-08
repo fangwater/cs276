@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Implement}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Data Representation}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{GUI Design}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Render System}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Moving X and Y}{subsection.2.3}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Disparity}{subsection.2.3}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Moving Z}{subsection.2.3}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.4}{Aperture}{subsection.2.3}% 9
+\BOOKMARK [1][-]{section.3}{Experiments}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{What do you observe if you use interpolation on undersampled light field?}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{What happens when you move your focal plane from far to near?}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Which focal plane gives you the optimal results \(least aliased reconstruction\)?}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.4}{What happens when you increase the size of the aperture?}{section.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Weight change}{subsection.3.4}% 15
+\BOOKMARK [3][-]{subsubsection.3.4.2}{View}{subsection.3.4}% 16
+\BOOKMARK [1][-]{section.4}{Supplement}{}% 17
+\BOOKMARK [2][-]{subsection.4.1}{Implement the z directional motion of the camera}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.2}{Making the view smoothly changed when increase the size of the aperture}{section.4}% 19
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 20
+\BOOKMARK [2][-]{subsection.5.1}{algorithms}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.2}{performance}{section.5}% 22

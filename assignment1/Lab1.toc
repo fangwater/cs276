@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Implement}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Data Representation}{2}{subsection.2.1}%
+\contentsline {paragraph}{Matrix 2 image and image 2 matrx}{2}{section*.2}%
+\contentsline {paragraph}{Blend by weight}{2}{section*.3}%
+\contentsline {subsection}{\numberline {2.2}GUI Design}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Render System}{3}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Moving X and Y}{3}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Disparity}{4}{subsubsection.2.3.2}%
+\contentsline {paragraph}{Disparity matrix}{4}{section*.6}%
+\contentsline {paragraph}{Re image}{4}{section*.7}%
+\contentsline {paragraph}{Q interpolator2}{4}{section*.8}%
+\contentsline {subsubsection}{\numberline {2.3.3}Moving Z}{4}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Aperture}{5}{subsubsection.2.3.4}%
+\contentsline {paragraph}{Aperture model}{5}{section*.11}%
+\contentsline {paragraph}{Model the weight}{5}{section*.12}%
+\contentsline {paragraph}{Generate image with aperture}{6}{section*.13}%
+\contentsline {section}{\numberline {3}Experiments}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}What do you observe if you use interpolation on undersampled light field?}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}What happens when you move your focal plane from far to near?}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Which focal plane gives you the optimal results (least aliased reconstruction)?}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}What happens when you increase the size of the aperture?}{9}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Weight change}{9}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}View}{9}{subsubsection.3.4.2}%
+\contentsline {section}{\numberline {4}Supplement}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Implement the z directional motion of the camera}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Making the view smoothly changed when increase the size of the aperture}{10}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Conclusion}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}algorithms}{10}{subsection.5.1}%
+\contentsline {paragraph}{Brightness after blending}{10}{section*.22}%
+\contentsline {paragraph}{Gaussian filtering parameters}{10}{section*.24}%
+\contentsline {subsection}{\numberline {5.2}performance}{11}{subsection.5.2}%
+\contentsline {paragraph}{Fix disparity for lots of image}{11}{section*.27}%
