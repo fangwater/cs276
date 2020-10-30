@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Implement}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Input/Output Format}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Input}{2}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.2}Build and solve linear system}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Vector field and scalar field}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Poisson blending}{3}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Solving the linear system}{4}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Boundary optimization}{4}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Target of optimization}{4}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Iterative method}{4}{subsubsection.2.3.2}%
+\contentsline {paragraph}{Node}{4}{section*.3}%
+\contentsline {paragraph}{Edge}{4}{section*.4}%
+\contentsline {paragraph}{Start}{5}{section*.5}%
+\contentsline {paragraph}{End}{5}{section*.6}%
+\contentsline {subsubsection}{\numberline {2.3.3}Complex}{5}{subsubsection.2.3.3}%
+\contentsline {section}{\numberline {3}Experiments}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Boundary optimization}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Getting the basic outline}{5}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Start with K}{6}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Optimization}{6}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Get mask}{6}{subsubsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.2}Blending}{7}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Form}{7}{subsubsection.3.2.1}%
+\contentsline {paragraph}{Matrix}{7}{section*.11}%
+\contentsline {paragraph}{Solver}{7}{section*.12}%
+\contentsline {section}{\numberline {4}Conclusion}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}algorithms}{7}{subsection.4.1}%
+\contentsline {paragraph}{Draw a line}{7}{section*.14}%
+\contentsline {paragraph}{Finding the other side of a line}{8}{section*.15}%
+\contentsline {subsection}{\numberline {4.2}performance}{8}{subsection.4.2}%
+\contentsline {paragraph}{Parallel}{8}{section*.16}%
+\contentsline {section}{\numberline {5}Code}{8}{section.5}%
